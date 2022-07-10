@@ -1,0 +1,10 @@
+[package]
+name = "img-rs"
+version = "1.0.8"
+edition = "2021"
+description = "safe bindings for stb_image"
+license = "MIT OR Apache-2.0"
+documentation = "https://docs.rs/img-rs"
+authors = ["Felipe Jorge <felipe.jorge.pereira@gmail.com>"]
+
+[dependencies]
